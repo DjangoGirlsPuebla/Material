@@ -1,5 +1,7 @@
 # Material para continuar aprendiendo Python y Django :snake:
 
+## Python
+
 - [Fundamentos de la programación - Universidad Complutense](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf)
 - [Python Succintly](https://www.syncfusion.com/resources/techportal/details/ebooks/python)
 - [Learning to program using Python](https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit)
@@ -11,3 +13,7 @@
 - [Python Koans](https://github.com/gregmalcolm/python_koans/wiki)
 - [Learn Python, interactive tutorial](https://www.learnpython.org/)
 - [Codecademy Python](https://www.codecademy.com/learn/python)
+
+## Django
+
+- [Django Girls Tutorial](https://tutorial.djangogirls.org/)
