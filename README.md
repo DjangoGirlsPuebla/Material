@@ -11,7 +11,7 @@ Este repositorio pretende reunir material elegido por los mentores para que las 
 - [MIT Python Course](https://www.youtube.com/playlist?list=PL57FCE46F714A03BC)
 - [Aprende Python en Y minutos](https://learnxinyminutes.com/docs/es-es/python-es/)
 - [Aprende Python 3 en Y minutos](https://learnxinyminutes.com/docs/es-es/python3-es/)
-
+- [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf)
 
 ### Entrenamiento
 
