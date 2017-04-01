@@ -8,7 +8,7 @@
 - [Programación Python](https://www.youtube.com/playlist?list=PL2np32AlEDYp7NinbVG5u0BmshO-POhTm)
 - [MIT Python Course](https://www.youtube.com/playlist?list=PL57FCE46F714A03BC)
 
-## Entrenamiento
+### Entrenamiento
 
 - [Python Koans](https://github.com/gregmalcolm/python_koans/wiki)
 - [Learn Python, interactive tutorial](https://www.learnpython.org/)
