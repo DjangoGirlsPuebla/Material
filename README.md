@@ -1,5 +1,7 @@
 # Material para continuar aprendiendo Python y Django :snake:
 
+Este repositorio pretende reunir material elegido por los mentores para que las asistentes al taller puedan continuar aprendiendo sobre Python y Django. Si gustas aportar por favor haz un clon de este repositorio y después un [Pull Request](https://help.github.com/articles/creating-a-pull-request/).
+
 ## Python
 
 - [Fundamentos de la programación - Universidad Complutense](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf)
