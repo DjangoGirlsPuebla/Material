@@ -9,6 +9,9 @@ Este repositorio pretende reunir material elegido por los mentores para que las 
 - [Learning to program using Python](https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit)
 - [Programación Python](https://www.youtube.com/playlist?list=PL2np32AlEDYp7NinbVG5u0BmshO-POhTm)
 - [MIT Python Course](https://www.youtube.com/playlist?list=PL57FCE46F714A03BC)
+- [Aprende Python en Y minutos](https://learnxinyminutes.com/docs/es-es/python-es/)
+- [Aprende Python 3 en Y minutos](https://learnxinyminutes.com/docs/es-es/python3-es/)
+
 
 ### Entrenamiento
 
