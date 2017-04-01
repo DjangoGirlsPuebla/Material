@@ -1,4 +1,4 @@
-# Material para continuar aprendiendo Puython y Django ![](https://www.python.org/static/community_logos/python-logo.png)
+# Material para continuar aprendiendo Python y Django :snake:
 
 - [Fundamentos de la programación - Universidad Complutense](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf)
 - [Python Succintly](https://www.syncfusion.com/resources/techportal/details/ebooks/python)
